@@ -1,0 +1,10 @@
+{
+    "id": "user-a",
+    "name": "User A",
+    "role": {
+        "id": 2,
+        "name": "User"
+    },
+    "iat": 1676970818,
+    "exp": 1676988818
+}

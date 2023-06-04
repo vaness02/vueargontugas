@@ -1,0 +1,19 @@
+{
+    "id": "user-a",
+    "n": "User A",
+    "ri": 2,
+    "r": "Admin",
+    "iat": 1676970818,
+    "exp": 1676988818
+}
+
+{
+    "id": "user-a",
+    "name": "User A",
+    "role": {
+        "id": 2,
+        "name": "User"
+    },
+    "iat": 1676970818,
+    "exp": 1676988818
+}
